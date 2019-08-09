@@ -1,4 +1,4 @@
-# modelling-neurons
+# modeling-neurons
 
 ### Hodgkin-Huxley.py
 
